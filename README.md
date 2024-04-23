@@ -1,4 +1,5 @@
-<center>![authy banner](./authy.png)</center>
+![authy banner](./authy.png)
+
 Originally designed for the Doge Unblocker discord server (https://discord.gg/unblocking), Authy is a discord authentication bot that detects if a user is using a proxy, vpn, and it also has them do a recaptcha verification to prove they are not a bot.
 # Tools
 - CommandKit (https://commandkit.js.org)
